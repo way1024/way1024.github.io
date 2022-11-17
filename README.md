@@ -1,1 +1,1 @@
-# way1024.gitjub.io
+# way1024.github.io
